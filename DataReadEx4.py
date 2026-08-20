@@ -1,13 +1,13 @@
 #Program Reading two numerical value and multiply
 #DataReadEx4.py
-a=input("Enter First Value of a:")
-b=input("Enter Second Value of b:")
+a=input("Enter First Number")
+b=input("Enter Second Number")
 #convert numerical str values into int/float
 x=float(a)
 y=float(b)
 z=x*y
-print("-"*50)
+print("*"*50)
 print("First Value =",x)
 print("Second Value =",y)
 print("Product =",z)
-print("-"*50)
+print("*"*50)
