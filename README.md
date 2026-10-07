@@ -1,1 +1,1 @@
-the data how to read input data
+Daily practice of Python for better Logic building to improve my skills and logic
